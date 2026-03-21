@@ -12,7 +12,7 @@ $ git submodule update --init
 ```
 $ pip install wheel
 $ conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge
-$ conda install ffmpeg 
+$ conda install ffmpeg==6 
 或者 apt install libavcodec-dev libavformat-dev libswscale-dev
 ```
 
